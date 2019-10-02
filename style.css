@@ -1,0 +1,21 @@
+li {
+    color: red;
+}
+.purple {
+	color: rebeccapurple;
+}
+body {
+  background-color: skyblue;
+}
+img{
+width: 300px;
+}
+input{
+	border-radius:50px;
+}
+.preference {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: .5rem;
+}
